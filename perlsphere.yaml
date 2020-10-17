@@ -7,6 +7,8 @@ plugins:
   - module: Subscription::Config
     config:
       feed:
+        - url:   https://dev.to/feed/drhyde
+          title: David Cantrell
         - url:   https://which-dwarf-are-you.blogspot.co.uk/search/label/Perl
         - url:   https://www.perl.com/index.xml
           title: Perl.com
