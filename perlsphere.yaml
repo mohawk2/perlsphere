@@ -132,6 +132,8 @@ plugins:
         - url:   http://news.perlfoundation.org/atom.xml
           title: Perl Foundation News
         - url:   https://dilfridge.blogspot.com/feeds/posts/default/-/perl/
+        - url:   https://dev.to/feed/tag/perl
+          title: DEV Community
 
   # Load 'Bundle' planet plugins
   - module: Bundle::Planet
