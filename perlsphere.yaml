@@ -132,6 +132,8 @@ plugins:
         - url:   http://news.perlfoundation.org/atom.xml
           title: Perl Foundation News
         - url:   https://dilfridge.blogspot.com/feeds/posts/default/-/perl/
+        - url:   https://blog.gnustavo.com/feeds/posts/default?q=label:Perl
+          title: Gnustavo
 
   # Load 'Bundle' planet plugins
   - module: Bundle::Planet
