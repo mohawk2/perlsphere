@@ -132,6 +132,8 @@ plugins:
         - url:   http://news.perlfoundation.org/atom.xml
           title: Perl Foundation News
         - url:   https://dilfridge.blogspot.com/feeds/posts/default/-/perl/
+        - url:   https://domm.plix.at/perl.xml
+          title: domm.plix.at / Perl
 
   # Load 'Bundle' planet plugins
   - module: Bundle::Planet
